@@ -1,18 +1,16 @@
-# Кирилл Ивахненко — Personal Portfolio
+# Кирилл Ивахненко — Portfolio
 
-Junior Frontend Developer | Информационная безопасность
+**Junior Frontend Developer**
 
-## О проекте
-Современный одностраничный сайт-портфолио с тёмной темой.
+[Открыть сайт](https://koshalabeck.github.io/kirill-portfolio)
 
-## Ссылка на сайт
-[Открыть портфолио →](https://koshalabeck.github.io/kirill-portfolio)
+## Навыки
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Языки**: Python, Java, Swift, C++
+- Git, Responsive Web Design
 
-## Технологии
-- HTML5
-- CSS3
-- JavaScript
+## Опыт
+Разработка интерфейсов в крупных IT-компаниях (финтех и банковский сектор)
 
----
-
-**Готов к новым возможностям!**
+## Образование
+Московский Политехнический Университет — Информационная безопасность
